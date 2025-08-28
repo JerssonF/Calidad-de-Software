@@ -1,9 +1,6 @@
 # Calidad de Software
 
----
-
-
-**DOCENTE:** RODRIGUEZ ROBLEDO CHRISTIAN FABIAN
+![Docente](https://img.shields.io/badge/DOCENTE-CHRISTIAN_FABIAN_RODRIGUEZ_ROBLEDO-27ae60?style=for-the-badge&labelColor=e67e22)
 
 
 
