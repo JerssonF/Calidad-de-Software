@@ -2,7 +2,8 @@
 
 ---
 
-<span style="background-color:#fdcb6e; color:#222; padding:4px 8px; border-radius:4px; font-size:0.9em;">DOCENTE</span> <span style="background-color:#00b894; color:#fff; padding:4px 8px; border-radius:4px; font-size:0.9em;">RODRIGUEZ ROBLEDO CHRISTIAN FABIAN</span>
+
+**DOCENTE:** RODRIGUEZ ROBLEDO CHRISTIAN FABIAN
 
 
 
